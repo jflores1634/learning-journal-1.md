@@ -13,4 +13,4 @@ Today we started week 2. I understand most of the material. Typing it efficientl
 ## Week 2 Day 2
 
 The constructors and table are a headache. Funny how we take for granted something that is already programmed like excel. 
-
+Each location is its own object. 
