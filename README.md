@@ -14,3 +14,8 @@ Today we started week 2. I understand most of the material. Typing it efficientl
 
 The constructors and table are a headache. Funny how we take for granted something that is already programmed like excel. 
 Each location is its own object. 
+
+
+## Week 2 Day 3
+
+Reveiewing the code for the lab assignment in class helped me to learn how the constructor works and what I needed to do to my own code to make it work. I will need to work with my css and html to add the assets for the lab today. 
