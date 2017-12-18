@@ -19,3 +19,8 @@ Each location is its own object.
 ## Week 2 Day 3
 
 Reveiewing the code for the lab assignment in class helped me to learn how the constructor works and what I needed to do to my own code to make it work. I will need to work with my css and html to add the assets for the lab today. 
+
+
+## Week 2 Weekend Journal Entry
+
+After another week and weekend of working on assignments and reading the material, my knowledge continues to grow more and more. Creating a form is difficult and will be needed when working with future clients. CSS to create a more stylistic page is key for catching the eye of your clients consumers or own customers.
