@@ -24,3 +24,8 @@ Reveiewing the code for the lab assignment in class helped me to learn how the c
 ## Week 2 Weekend Journal Entry
 
 After another week and weekend of working on assignments and reading the material, my knowledge continues to grow more and more. Creating a form is difficult and will be needed when working with future clients. CSS to create a more stylistic page is key for catching the eye of your clients consumers or own customers.
+
+## Week 2 Day 2 
+
+Added videos to your code can be pretty easy. Creating buttons to stop, pause, and play can be a little more time consuming for the new coder. Creating a random image creator can be easily done but can be tricky if you don't have to correct syntax and understanding of the constructor.
+
