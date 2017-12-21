@@ -25,10 +25,17 @@ Reveiewing the code for the lab assignment in class helped me to learn how the c
 
 After another week and weekend of working on assignments and reading the material, my knowledge continues to grow more and more. Creating a form is difficult and will be needed when working with future clients. CSS to create a more stylistic page is key for catching the eye of your clients consumers or own customers.
 
-## Week 3 Day 2 
+## Week 3 Day 1
 
 Added videos to your code can be pretty easy. Creating buttons to stop, pause, and play can be a little more time consuming for the new coder. Creating a random image creator can be easily done but can be tricky if you don't have to correct syntax and understanding of the constructor.
 
-## Week 3 Day 3 
+## Week 3 Day 2
+
+Creating a canvas chart can be easily done using the chart.js site. It is great to start from top to bottom with the directions given to a specific chart. 
+
+
+
+
+## Week 3 Day 3
 
 By using certain commands and code you can store info/code into your local storage. This makes your page persistent so that the user can come back to a page and continue where they left off even if the browswer window is closed.
