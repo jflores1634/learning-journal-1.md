@@ -39,3 +39,8 @@ Creating a canvas chart can be easily done using the chart.js site. It is great 
 ## Week 3 Day 3
 
 By using certain commands and code you can store info/code into your local storage. This makes your page persistent so that the user can come back to a page and continue where they left off even if the browswer window is closed.
+
+## Week 3 Day 4
+
+301 over view was good to see and hear. It makes me nervous going into deeper knowledge but it will be important for my growth as a developer. The whiteboard was a good feeler to what it will be like for future whiteboard sessions with the class.
+
