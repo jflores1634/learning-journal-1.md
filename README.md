@@ -44,3 +44,10 @@ By using certain commands and code you can store info/code into your local stora
 
 301 over view was good to see and hear. It makes me nervous going into deeper knowledge but it will be important for my growth as a developer. The whiteboard was a good feeler to what it will be like for future whiteboard sessions with the class.
 
+## Week # Day 5 Weekend Journal
+
+- Working through the merge conflicts exercise is a great way to problem solve and trouble shoot through merging and ACP withing a team. The review of 301 is good to see so we know a little more of what we will be going through. 
+
+- Git projects is a useful tool for our final projects. It lets us keep track of whos doing what and when it is completed.
+
+
